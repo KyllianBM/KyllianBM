@@ -19,7 +19,7 @@ Just a developer in constant quest for learning
 📫 How to reach me :
 
 My linkedin
-[JEAN-GILLES Kyllian] linkedin.com/in/kyllianjgit
+
 
 
 Languages and Tools :
