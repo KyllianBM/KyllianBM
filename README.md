@@ -1,4 +1,6 @@
-I'm Kyllian, a developer in constant quest for learning 
+# Hello, I'm Kyll
+
+Just a developer in constant quest for learning 
 
 🔭 I'm looking for a Work-study job
 
@@ -8,13 +10,17 @@ I'm Kyllian, a developer in constant quest for learning
 
 💬 Ask me about java, Springboot, Javascript, 
 
-📄 My experiences :
+📄 My experiences : Development of a social network type platform 
+                    Back-end Development (JAVA Spring micro-service)
+                    Preparation of unit tests.
+                    Writing of documentions. Development of a social networking platform Back-end development (JAVA Spring micro-service) Preparation of unit tests. Writing of                                  documentions.
+ 
 
 📫 How to reach me :
 
 My linkedin
-www.linkedin.com/in/kyllian-jean-gilles-2555222b2
+[JEAN-GILLES Kyllian]linkedin.com/in/kyllianjgit
 
 
 Languages and Tools :
- java hardhat html5 css3 javascript tailwind git linux mysql postgresql php docker insomnia
+ java html5 css3 javascript php git linux mysql postgresql php docker insomnia 
